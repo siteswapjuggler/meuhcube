@@ -25,5 +25,5 @@ You can drive a cube over USB with one of this clients:
 
 Some people wrote cool posts about this project:
 
-  * 2016-01-15: [[fr] Meuh cube: Cube lumineux 7*7*7 Led V1](https://fablab.ledome.info/#!/projects/cube-lumineux-7-7-7-led)
-  * 2016-09-01: [[fr] Meuhcube / cube à leds 7*7*7 v2](https://fablab.ledome.info/#!/projects/cube-lumineux-7-7-7-led-v2)
+  * 2016-01-15: [[fr] Meuh cube: Cube lumineux 7\*7\*7 Led V1](https://fablab.ledome.info/#!/projects/cube-lumineux-7-7-7-led)
+  * 2016-09-01: [[fr] Meuhcube / cube à leds 7\*7\*7 v2](https://fablab.ledome.info/#!/projects/cube-lumineux-7-7-7-led-v2)
