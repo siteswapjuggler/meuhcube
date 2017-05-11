@@ -1,0 +1,10 @@
+Meuhcube main v0
+
+correctif à apporter :
+
+- corriger le schéma du comparateur
+- corriger l'emplacement des mosfet (en haut et au niveau du connecteur USB)
+- remplacer les mosfet de layer par des transistor + résistance
+- nouvelle règle de routage : routage manhattan 
+- nouvelle règle de routage : plan de masse
+- enlever les sérigraphie de la face supérieur
