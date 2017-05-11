@@ -31,6 +31,6 @@ Farnell ref. | Name | Specs  | Case | Price | Qty
 1841229 | connecteur | 10 pin / male | | 0,54 € | 1
 1800872 | pieds | 3 mm / noir | | 0,15 € | 4
 
-+ PCB 21,13 €
+\+ PCB 21,13 €
 
 Total = 41,94 € 
