@@ -6,7 +6,7 @@ A MeuhCube can basically display embedded animations with the Arduino sketch or 
 
 The Arduino sketch also exposes a serial API over USB that can be implemented by some remote programs.
 
-# What can I find in this repository?
+## What can I find in this repository?
 
 There is some folders categorizing the resources:
 
@@ -15,13 +15,13 @@ There is some folders categorizing the resources:
 
 You'll find more informations in the readme file of each folder.
 
-# Remote clients over USB
+## Remote clients over USB
 
 You can drive a cube over USB with one of this clients:
 
   * [PLFM, a Python library for MeuhCube](https://gitlab.com/influencepc/Python-library-for-MeuhCube)
 
-# External resources
+## External resources
 
 Some people wrote cool posts about this project:
 
