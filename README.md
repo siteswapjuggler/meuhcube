@@ -17,8 +17,13 @@ You'll find more informations in the readme file of each folder.
 
 ## Remote clients over USB
 
-You can drive a cube over USB with one of this clients:
+You can drive a cube over USB with one of the clients in the **software** folder:
 
+  * a Max/MSP sketch
+  * a Proccesing library and simulator
+  * a Python Module in Progress
+  
+You can also use this clients under developpement : 
   * [PLFM, a Python library for MeuhCube](https://gitlab.com/influencepc/Python-library-for-MeuhCube)
 
 ## External resources
